@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/activity_splash_screen.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/image_form.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/order_item.xml" value="0.264" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/order_item_product.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/orders_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/product_form_activity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/product_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/products_list_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/shopping_cart_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/layout/top_app_bar.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/menu/menu_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Amanda/Documents/Alura/android-com-kotlin-personalizando-ui-aula-5/app/src/main/res/menu/top_app_bar.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4984375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
